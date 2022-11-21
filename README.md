@@ -45,7 +45,11 @@ Para comenzar con la lectura de los dos capitulos presentes hay que tener en cue
 # 4. VIDEO
 Link del video en youtube: https://www.youtube.com/watch?v=NpMbrpmd2CU
 # 5. CONCLUSIONES
-* 
+* Para concluir con la tarea se pudo cumplir con los objetivos propuestos analizando y reconociendo de tal manera la importancia que tienen las principales leyes sobre circuitos eléctricos en donde se logra definir una clara diferencia sobre como influye la “Ley de Ohm” sobre un circuito simple 
+* Como consecuencia en lo analizado en los respectivos capítulos para la resolución del deber se comprobó que la “Ley de Ohm” establece que la corriente a través de un resistor es directamente proporcional a la diferencia de voltaje en los extremos del resistor e inversamente proporcional a la resistencia del resistor. Dicha ley es una herramienta básica para poder trabajar con circuitos eléctricos ya que es utilizada para hallar el valor correspondiente a corriente, voltaje o resistencia agilizando el proceso de resolución.
+
 # 6. REFERENCIAS 
+* Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson.
+
 
 
